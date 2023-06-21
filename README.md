@@ -1,6 +1,9 @@
 ### Привет! 👋
-<a href ="htts://t.me/Valek">
+<a href="https://t.me/Valek">
   <img align="left" alt="Valentin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+</a>
+<a href="https://www.instagram.com/Valek">
+  <img align="left" alt="Valentin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <!--
 **valentinbuots/valentinbuots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
